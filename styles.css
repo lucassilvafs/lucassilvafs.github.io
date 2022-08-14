@@ -1,8 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
 #menu ul { 
     margin:0;
     padding:0;
 }
+
 #menu li {
     padding-inline: 5px;
     display:inline;
+}
+
+#myName {
+    font-family: sans-serif
+}
+
+#myDescription {
+    font-family: 'Dm Sans';
+    font-size: 16px;
+}
+
+body {
+    color:white;
+    background-color: rgb(12, 14, 16);
 }
